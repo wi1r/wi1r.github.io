@@ -7,3 +7,7 @@ body {
 .jumbotron {
     text-align: center;
 }
+
+.btn-lg {
+    font-size: 36px;
+}
